@@ -6,3 +6,27 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Modern E-commerce React Application
+
+A feature-rich e-commerce platform built with React, Redux Toolkit, and Bootstrap.
+
+## Features
+
+- Product catalog with dynamic rendering
+- Shopping cart functionality
+- State management with Redux Toolkit
+- Responsive design using Bootstrap
+- Clean and modern UI
+
+## Tech Stack
+
+- React
+- Redux Toolkit
+- Bootstrap
+- Vite
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/my-ecommerce-app.git
